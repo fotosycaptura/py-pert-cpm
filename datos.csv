@@ -1,0 +1,9 @@
+CODE,DESC,DIAS,PREDECESORES
+A,taskA,16,
+B,taskB,10,A
+C,taskC,18,B
+D,taskD,24,A
+E,taskE,20,C
+F,taskF,12,C
+G,taskG,22,DF
+H,taskH,14,EG

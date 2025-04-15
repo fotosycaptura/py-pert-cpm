@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+*.class
+*.DS_Store
+*.srt
+*.ttml
+*.swp
+*.png
+tmp/
+venv/
+.vscode
+resultado_pert_cpm.csv
