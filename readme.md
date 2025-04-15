@@ -1,6 +1,6 @@
 # py-pert-cpm.py
 
-Aplicación para visualizar las rutas críticas, y como amenxo, diagramar.
+Aplicación para visualizar las rutas críticas, y como anexo, diagramar.
 
 ## Características
 
