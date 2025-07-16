@@ -144,7 +144,7 @@ color_map = ['red' if tareas[n]['CRITICO'] else 'lightgray' for n in G.nodes]
 plt.figure(figsize=(14, 10))
 nx.draw(G, pos, with_labels=True,
         labels=nx.get_node_attributes(G, 'label'),
-        node_color=color_map, node_size=6000,
+        node_color=color_map, node_size=4000,
         font_size=8, font_weight='bold', arrows=True)
 
 # Leyenda de colores
