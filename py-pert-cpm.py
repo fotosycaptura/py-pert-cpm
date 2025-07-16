@@ -135,7 +135,7 @@ for codigo, info in tareas.items():
 
 # Posicionamiento
 
-pos = nx.kamada_kawai_layout(G)
+pos = nx.planar_layout(G)
 
 # Colores: rojo si es crítica
 color_map = ['red' if tareas[n]['CRITICO'] else 'lightgray' for n in G.nodes]
