@@ -54,3 +54,7 @@ LS: Fin tardío
 Además, genera una imagen png diagramando la salida de esta manera:
 
 ![Salida PNG](diagrama_pert_cpm.png)
+
+## Fix
+
+Se corrige superpocisión en medida de lo posible de los nodos
